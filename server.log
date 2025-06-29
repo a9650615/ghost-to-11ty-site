@@ -1,0 +1,7 @@
+
+> eleventy-base-blog@9.0.0 start
+> npx @11ty/eleventy --serve --quiet
+
+[11ty] Copied 2 Wrote 25 files in 0.52 seconds (v3.1.2)
+[11ty] Watching…
+[11ty] Server at http://localhost:8080/

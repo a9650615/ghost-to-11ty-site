@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/post.njk",
+  "tags": ["post", "ghost"],
+  "permalink": "/ghost-posts/{{ title | slugify }}/"
+}

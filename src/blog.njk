@@ -1,0 +1,10 @@
+---
+permalink: /blog/
+eleventyNavigation:
+  key: Archive
+  order: 2
+---
+<h1>Archive</h1>
+
+{% set postslist = collections.allPosts %}
+{% include "postslist.njk" %}
