@@ -62,6 +62,31 @@
 	</url>
 	
 	<url>
+		<loc>https://example.com/ISSUE_IMAGE_OPTIMIZATION/</loc>
+		<lastmod>2025-06-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/ISSUE_INCREMENTAL_BUILDS/</loc>
+		<lastmod>2025-06-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/ISSUE_SEO_ANALYTICS/</loc>
+		<lastmod>2025-06-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/ISSUE_CONTENT_MANAGEMENT/</loc>
+		<lastmod>2025-06-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/PROJECT_COMPLETION/</loc>
+		<lastmod>2025-06-29</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://example.com/feed/feed.xml</loc>
 		<lastmod>2025-06-29</lastmod>
 	</url>
